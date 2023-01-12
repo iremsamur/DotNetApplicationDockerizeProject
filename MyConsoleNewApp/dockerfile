@@ -1,0 +1,10 @@
+FROM mcr.microsoft.com/dotnet/runtime:3.1 ##hangi sürüm ile çalýþýlýyor. Yani dockerize iþlemi hangi sürümden yer alýyor.
+WORKDIR /app ## sanal tarafta bunun kaydedileceði çalýþma dizini klasör veriliyor
+COPY  /bin/Release/netcoreapp3.1/publish /app/
+# dosyalarýn nereden ve nereye kopyalanacaðýný alýyoruz.
+#ilk baþta dosyalar nereden alacak. Uygulamayý publish edince dosyalarýn konumlandýðý release konumunu veririz. Sonra bir boþluk /app yani yukarýda workdir ile gittiðimiz
+#dizin olan nereye kaydedilecek 
+ENTRYPOINT ["dotnet","MyConsoleNewApp.dll"] # entrypoint docker komutu ile pararmetre uygulama türü .net, 
+#ikincisi dll dosyasý adý 
+
+

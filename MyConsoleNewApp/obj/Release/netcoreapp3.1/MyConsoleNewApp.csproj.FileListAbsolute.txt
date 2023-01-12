@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\UpSchoolBootcamp\MyNewApp\MyConsoleNewApp\bin\Release\netcoreapp3.1\MyConsoleNewApp.exe
+C:\Users\User\Desktop\UpSchoolBootcamp\MyNewApp\MyConsoleNewApp\bin\Release\netcoreapp3.1\MyConsoleNewApp.deps.json
+C:\Users\User\Desktop\UpSchoolBootcamp\MyNewApp\MyConsoleNewApp\bin\Release\netcoreapp3.1\MyConsoleNewApp.runtimeconfig.json
+C:\Users\User\Desktop\UpSchoolBootcamp\MyNewApp\MyConsoleNewApp\bin\Release\netcoreapp3.1\MyConsoleNewApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\UpSchoolBootcamp\MyNewApp\MyConsoleNewApp\bin\Release\netcoreapp3.1\MyConsoleNewApp.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\MyNewApp\MyConsoleNewApp\bin\Release\netcoreapp3.1\MyConsoleNewApp.pdb
+C:\Users\User\Desktop\UpSchoolBootcamp\MyNewApp\MyConsoleNewApp\obj\Release\netcoreapp3.1\MyConsoleNewApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\MyNewApp\MyConsoleNewApp\obj\Release\netcoreapp3.1\MyConsoleNewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UpSchoolBootcamp\MyNewApp\MyConsoleNewApp\obj\Release\netcoreapp3.1\MyConsoleNewApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\MyNewApp\MyConsoleNewApp\obj\Release\netcoreapp3.1\MyConsoleNewApp.AssemblyInfo.cs
+C:\Users\User\Desktop\UpSchoolBootcamp\MyNewApp\MyConsoleNewApp\obj\Release\netcoreapp3.1\MyConsoleNewApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\MyNewApp\MyConsoleNewApp\obj\Release\netcoreapp3.1\MyConsoleNewApp.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\MyNewApp\MyConsoleNewApp\obj\Release\netcoreapp3.1\MyConsoleNewApp.pdb
+C:\Users\User\Desktop\UpSchoolBootcamp\MyNewApp\MyConsoleNewApp\obj\Release\netcoreapp3.1\MyConsoleNewApp.genruntimeconfig.cache
